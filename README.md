@@ -19,6 +19,14 @@ ECE @ RVCE &nbsp;·&nbsp; AI obsessed &nbsp;·&nbsp; Linux enthusiast &nbsp;·&n
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/isocalendar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/isocalendar-light.svg">
+  <img src="assets/isocalendar-dark.svg" width="840" alt="Isometric calendar of recent GitHub contributions">
+</picture>
+
+<br>
+
 <sub>powered by caffeine, curiosity, and far too many terminal tabs</sub>
 
 </div>
