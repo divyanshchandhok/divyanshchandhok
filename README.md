@@ -14,7 +14,7 @@ ECE @ RVCE &nbsp;·&nbsp; AI obsessed &nbsp;·&nbsp; Linux enthusiast &nbsp;·&n
 
 <a href="https://chatgpt.com/"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-1a1b1e?style=flat-square&logo=openai&logoColor=white"></a>&nbsp;
 <a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-1a1b1e?style=flat-square&logo=openai&logoColor=white"></a>&nbsp;
-<a href="https://claude.com/product/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-1a1b1e?style=flat-square&logo=anthropic&logoColor=white"></a>&nbsp;
+<a href="https://claude.com/product/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-1a1b1e?style=flat-square"></a>&nbsp;
 <a href="https://opencode.ai/"><img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-1a1b1e?style=flat-square&logoColor=white"></a>
 
 <br>
