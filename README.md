@@ -12,16 +12,16 @@
 
 <sub>I like hard problems, useful software, and making the computer do the boring part.</sub>
 
-<br><br>
+<br>
 
 <a href="https://chatgpt.com/"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-1a1b1e?style=flat-square&logo=openai&logoColor=white"></a>&nbsp;
 <a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-1a1b1e?style=flat-square&logo=openai&logoColor=white"></a>&nbsp;
 <a href="https://ollama.com/"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-1a1b1e?style=flat-square&logo=ollama&logoColor=white"></a>&nbsp;
 <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-1a1b1e?style=flat-square&logo=linux&logoColor=F97355"></a>
 
-<br><br>
+<br>
 
-### things I've put into the world
+### built & shipped
 
 [**LifeRebuild**](https://liferebuild.app) &nbsp;·&nbsp; [**CoreXY plotter**](https://github.com/divyanshchandhok/mcp-2d-plotter) &nbsp;·&nbsp; [**sukoon**](https://github.com/divyanshchandhok/sukoon) &nbsp;·&nbsp; [**FP64 on FPGA**](https://github.com/divyanshchandhok/addc-ft-pbl)
 
