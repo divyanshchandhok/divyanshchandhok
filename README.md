@@ -29,4 +29,8 @@ ECE @ RVCE &nbsp;·&nbsp; AI obsessed &nbsp;·&nbsp; Linux enthusiast &nbsp;·&n
 
 <sub>powered by caffeine, curiosity, and far too many terminal tabs</sub>
 
+<br><br>
+
+[LifeRebuild](https://liferebuild.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/divyanshchandhok/)
+
 </div>
